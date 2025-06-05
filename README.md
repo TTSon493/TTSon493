@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Trần Thái Sơn
+- 😄 I am a software engineer specializing in backend development with strong experience and skills in C# Core
+- 💞️ Outside of work, I enjoy playing sports, watching movies, listening to music, and participating in esports activities
+- ✨The combination of my passion for technology and personal interests helps me maintain a balanced life and brings positive energy to software development projects
+- 👀 I’m interested in coding, esport, music, film
+- 🌱 I’m currently learning FPT University, Ho Chi Minh City
