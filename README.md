@@ -44,3 +44,11 @@
 <h3><strong>Badges</strong></h3>
 
 <strong>My GitHub Stats</strong>
+<p align="center"> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTSon493&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="TTSon493's Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api?username=TTSon493&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="TTSon493's Stats" height="165"/>
+</p>  
+<p align="center"> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TTSon493&theme=midnight-purple&hide_border=true" alt="TTSon493's Streak" />
+</p>    
+
