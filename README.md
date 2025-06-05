@@ -4,11 +4,11 @@
 
 <img src="https://github.com/user-attachments/assets/3c44b82d-a344-4481-aa9e-4fbd4647d754" width="20" /> I've been coding for 3+ years with Information Technology, a software engineer specializing in backend development with strong experience and skills in C# Core
 
-🌍  I'm from Vietnam and currently living in HCM </br>
-✉️  You can contact me at tranthaison7115@gmail.com or +84 329257952 </br>
-🧠  I'm currently focusing on learning ASP.NET to have a deeper knowledge in server development </br>
-🤝  I'm open to collaboration for any projects you can think of </br>
-⚡  i'm keen on socializing to reach out with the community
+- 🌍  I'm from Vietnam and currently living in HCM </br>
+- ✉️  You can contact me at tranthaison7115@gmail.com or +84 329257952 </br>
+- 🧠  I'm currently focusing on learning ASP.NET to have a deeper knowledge in server development </br>
+- 🤝  I'm open to collaboration for any projects you can think of </br>
+- ⚡  i'm keen on socializing to reach out with the community
 
 <strong>Skills</strong>
 
