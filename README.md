@@ -2,12 +2,12 @@
 
 <h2><strong>Backend Developer</strong></h2>
 
-I've been coding for 3+ years with Information Technology. I am a software engineer specializing in backend development with strong experience and skills in C# Core
+<img src="https://github.com/user-attachments/assets/3c44b82d-a344-4481-aa9e-4fbd4647d754" width="20" /> I've been coding for 3+ years with Information Technology, a software engineer specializing in backend development with strong experience and skills in C# Core
 
-🌍  I'm from Vietnam and currently living in HCM 
-✉️  You can contact me at tranthaison7115@gmail.com or +84 329257952
-🧠  I'm currently focusing on learning ASP.NET to have a deeper knowledge in server development
-🤝  I'm open to collaboration for any projects you can think of
+🌍  I'm from Vietnam and currently living in HCM </br>
+✉️  You can contact me at tranthaison7115@gmail.com or +84 329257952 </br>
+🧠  I'm currently focusing on learning ASP.NET to have a deeper knowledge in server development </br>
+🤝  I'm open to collaboration for any projects you can think of </br>
 ⚡  i'm keen on socializing to reach out with the community
 
 <strong>Skills</strong>
@@ -15,10 +15,7 @@ I've been coding for 3+ years with Information Technology. I am a software engin
 💻 <strong>CORE SKILLS</strong>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
 
 💻 <strong>CODE EDITORS</strong>
 
